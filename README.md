@@ -1,4 +1,4 @@
-This script is all about diving into a bunch of data related to wine quality. It starts by bringing in the tools we need, then it opens up a file that contains information like volatile acidity, citric acid, residual sugar, quality ratings, etc.
+This script is all about diving into the data related to wine quality. It starts by bringing in the tools we need, then it opens up a file that contains information like volatile acidity, citric acid, residual sugar, quality ratings, etc.
 
 Next,  it checks for missing information and fills in the blanks as well as creates a few graphs that help us with the EDA.
 
